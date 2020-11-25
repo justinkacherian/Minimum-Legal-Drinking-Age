@@ -4,4 +4,4 @@
 
 -The reference questions are attached.
 
--For questions 1, 2 and 3, the raw data was imported to excel and the plots were created using excel. Those files are attached.
+-For questions 1, 2 and 3, the raw data was imported into excel and the plots were created using excel. Those files are attached.

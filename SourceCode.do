@@ -1,4 +1,4 @@
-use "C:\Users\justi\OneDrive\ECO_4010\Stata\Datasets\deaths.dta"
+use "C:\Users\justi\OneDrive\Stata\Datasets\deaths.dta"
 export excel using helloworld1.xls, firstrow(varlabels)
 
 
